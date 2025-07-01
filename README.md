@@ -1,12 +1,12 @@
 # Azure Kubernetes Service with Azure DevOps and Terraform 
 
 
-## Course Modules 
+## Course Modules
 
 | S.No | Azure Service Name |
 | ---- | ---------------- |
 | 1.   | Create Azure AKS Cluster using Azure Portal |
-|
+|2    | Docker fundamentals |
 | 3.   | Imperative Method: Kubernetes Fundamentals using kubectl |
 | 4.   | Declarative Method: Kubernetes Fundamentals using YAML |
 | 5.   | Azure Disks for AKS Storage |
